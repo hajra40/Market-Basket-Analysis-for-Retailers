@@ -29,9 +29,6 @@ Apriori algorithm is the core of MBA process which helps the retailers to discov
 - Whole milk & other vegetables are highly associated with each other. If a customer buys either one of these then the other product is also bought.
 <div>
 <style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
